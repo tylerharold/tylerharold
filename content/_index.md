@@ -1,3 +1,7 @@
+---
+type: page 
+---
+
 Hey, I'm Tyler! Welcome to my little corner of the web.
 
 I'm a Full-Stack Engineer based in Lakeland, FL where I'm currently working @ [Apex Hosting](https://apexminecrafthosting.com) in a products-focused engineering role.
