@@ -1,0 +1,5 @@
+baseURL = "https://tylerharold.com/"
+languageCode = "en-us"
+title = "Tyler Harold"
+theme = "th1"
+enableEmoji = true 
