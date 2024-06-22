@@ -1,5 +1,17 @@
 baseURL = "https://tylerharold.com/"
 languageCode = "en-us"
-title = "Tyler Harold"
 theme = "th1"
 enableEmoji = true 
+
+title = "Tyler Harold"
+description = "Tyler Harold is a Software Engineer based in Lakeland, FL."
+keywords = "tyler harold, tyler harold website, tyler harold blog, tyler harold resume, tyler harold developer, tyler harold linkedin"
+author = "Tyler Harold"
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[outputs]
+home = ["HTML", "RSS", "SITEMAP", "ROBOTS"]
